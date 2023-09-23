@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JournaLog</string>
+    <string name="active_log_book">Active LogBook</string>
+    <string name="back_button">Back</string>
+</resources>
